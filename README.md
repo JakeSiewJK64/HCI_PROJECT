@@ -49,5 +49,5 @@ HTML                ████████████████████
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeSiewJK64)](https://github.com/JakeSiewJK64/github-readme-stats)
 
-
+<h3> Berkhidmat Untuk Negara! / マレイジャの為！ 💪💪💪 </h3>
 
