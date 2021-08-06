@@ -9,7 +9,7 @@
 
 My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an interest in Machine Learning and AI related fields and plan on building my own virtual assistant one day like JARVIS. I hope to journey into this endeavor with you.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/84582591222f1f49041d8cf17ad02853/tenor.gif?itemid=16168697" width="auto" height="320" />
  
 - 📧 Please email me at: [joekanesiew@outlook.com](mailto:joekanesiew@outlook.com)
 
