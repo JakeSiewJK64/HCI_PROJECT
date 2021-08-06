@@ -3,7 +3,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=JakeSiewJK64.JakeSiewJK64)
 
 <br />
 
@@ -37,15 +37,6 @@ CSS                 ████████████████████
 HTML                ████████████████████▒▒▒▒▒   10.00 % 
 ```
 <!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 my github stats
 
