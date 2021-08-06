@@ -31,7 +31,7 @@ My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/google/google-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg"></code>
 
 📊 **Languages:**
 <!--START_SECTION:waka-->
