@@ -16,6 +16,7 @@ My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an 
  
 - 📧 Please email me at: [joekanesiew@outlook.com](mailto:joekanesiew@outlook.com)
 - ♟️ Visit and Support my Facebook page: [DataScience.exe](https://www.facebook.com/DataScienceexe-101972195168927)
+- 📸 Visit my [website](https://jakesiewjk64.github.io/RhodesCafe/)
 
 🧰 **frameworks and tools:**  
 
