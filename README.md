@@ -1,4 +1,5 @@
 
+
 ### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=JakeSiewJK64&repo=github-visitors-badge&countColor=%237B1E7A)
@@ -7,7 +8,7 @@ My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an 
 
 <img align="right" draggable="false" alt="GIF" src="https://media1.tenor.com/images/84582591222f1f49041d8cf17ad02853/tenor.gif?itemid=16168697" width="auto" height="320" />
 
-Contact me at: <a href="mailto:joekanesiew@outlook.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jake-siew-joe-kane-a411811b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bya8gUVsGTd6S%2BuOzYlFjSw%3D%3D">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+Contact me at: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a> <a href="https://www.linkedin.com/in/jake-siew-joe-kane-a411811b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bya8gUVsGTd6S%2BuOzYlFjSw%3D%3D">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### ♟️ Visit and Support my Facebook page:
 
