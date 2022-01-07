@@ -12,7 +12,7 @@ Contact me at: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.s
 
 ### ♟️ Visit and Support my Facebook page:
 
-![DataScience.exe](https://img.shields.io/static/v1?label=DataScience.exe&style=for-the-badge&message=Visit%20my%20website&color=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/DataScienceexe-101972195168927)
+![DataScience.exe](https://img.shields.io/static/v1?label=DataScience.exe&style=for-the-badge&message=Support%20my%20fb%20page&color=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/DataScienceexe-101972195168927)
 ### 📸 Visit my Website at: 
 ![Website](https://img.shields.io/static/v1?label=Rhine%20Cafe&style=for-the-badge&message=Visit%20my%20website&color=green&logo=arduino&logoColor=white&link=https://jakesiewjk64.github.io/RhineCafe/)
 # </> Backend Frameworks:
