@@ -14,8 +14,9 @@
 My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an interest in Machine Learning and AI related fields and plan on building my own virtual assistant one day like JARVIS. I hope to journey into this endeavor with you.
 
 <img align="right" draggable="false" alt="GIF" src="https://media1.tenor.com/images/84582591222f1f49041d8cf17ad02853/tenor.gif?itemid=16168697" width="auto" height="320" />
- 
-- 📧 Please email me at: [joekanesiew@outlook.com](mailto:joekanesiew@outlook.com)
+
+Contact me at: <a href="mailto:joekanesiew@outlook.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jake-siew-joe-kane-a411811b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bya8gUVsGTd6S%2BuOzYlFjSw%3D%3D">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 - ♟️ Visit and Support my Facebook page: [DataScience.exe](https://www.facebook.com/DataScienceexe-101972195168927)
 - 📸 Visit my [website](https://jakesiewjk64.github.io/RhineCafe/)
 
@@ -35,7 +36,8 @@ My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"></code>
 
  🧯 **Databases:**  
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg"></code>
@@ -52,11 +54,12 @@ My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an 
 
 📊 **Languages:**
 <!--START_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeSiewJK64&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeSiewJK64&layout=default&langs_count=100&card_width=1000)
 <!--END_SECTION:waka-->
 
-📈 my github stats
+### 📈 Github Streaks
+<img src="https://github-readme-stats.vercel.app/api?username=JakeSiewJK64&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeSiewJK64)](https://github.com/JakeSiewJK64/github-readme-stats)
 
 <h3> Berkhidmat Untuk Negara! / マレイジャの為！ 💪💪💪 </h3>
