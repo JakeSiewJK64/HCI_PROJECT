@@ -1,16 +1,7 @@
 
 ### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/jake-siew-joe-kane-a411811b5/">
-  <img align="left" alt="Jake's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/DataScienceexe-101972195168927">
-  <img align="left" alt="DataScience.exe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a><br />
-
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=JakeSiewJK64&repo=github-visitors-badge&countColor=%237B1E7A)
-
-<br />
 
 My name is Jake Siew Joe Kane, an avid full stack web developer. I also have an interest in Machine Learning and AI related fields and plan on building my own virtual assistant one day like JARVIS. I hope to journey into this endeavor with you.
 
@@ -24,6 +15,8 @@ Contact me at: <a href="mailto:joekanesiew@outlook.com">![Email Me!!](https://im
 
 ### 📸 Visit my Website at: 
 <a href='https://jakesiewjk64.github.io/RhineCafe/'>![Website](https://img.shields.io/static/v1?label=Rhine%20Cafe&style=for-the-badge&message=Visit%20my%20website&color=green&logo=arduino&logoColor=white&link=https://jakesiewjk64.github.io/RhineCafe/)</a>
+
+<br />
 
 # 🧰 **frameworks and tools:**  
 
