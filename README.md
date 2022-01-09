@@ -1,5 +1,6 @@
 
 
+
 ### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=JakeSiewJK64&repo=github-visitors-badge&countColor=%237B1E7A)
@@ -39,7 +40,7 @@ Contact me at: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.s
 ![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Zustand&label=&color=green&logoColor=white&link=https://jakesiewjk64.github.io/RhineCafe/)
 ![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Formik&label=&color=f1c40f&logoColor=white&link=https://jakesiewjk64.github.io/RhineCafe/)
 # 📱 Mobile Development:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 # 🛠️ Debugging and Documentation Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
