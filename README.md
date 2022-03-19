@@ -21,7 +21,8 @@ Contact me at: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.s
 
 # 📈 Github Streaks
 <img src="https://github-readme-stats.vercel.app/api?username=JakeSiewJK64&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="JakeSiewJK64" width="45%" align="right"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JakeSiewJK64&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
