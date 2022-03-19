@@ -1,3 +1,5 @@
+
+
 ![](https://img.tapimg.com/market/images/ab7ec15449aa676f6d2904c8f41bf5d7.jpg?imageView2/2/h/1080/w/9999/q/80/format/jpg/interlace/1/ignore-error/1)
  
 ### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -20,9 +22,15 @@ Contact me at: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.s
 <!--END_SECTION:waka-->
 
 # 📈 Github Streaks
+
+
+<div style="display:flex;flex-direction:column;">
+
 <img src="https://github-readme-stats.vercel.app/api?username=JakeSiewJK64&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="JakeSiewJK64" width="45%" align="right"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
+
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JakeSiewJK64&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
