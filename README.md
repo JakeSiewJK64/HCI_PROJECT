@@ -7,7 +7,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=JakeSiewJK64&repo=github-visitors-badge&countColor=%237B1E7A)
 
-Hi, I'm Jake. I am a software developer and a student in Computer Science. I write blogs and post memes about Computer Science and the famous #developerlife shit. Hope my content is useful and enjoyable.
+Hi, I'm Jake. I am a software developer and a student in Computer Science. I write blogs and post memes about Computer Science and the famous #developerlife shit. Hope my content is useful and enjoyable. Visit my Itch.io page at https://jakesiewjk64.itch.io/ for my games. Thank you.
 
 <img align="right" draggable="false" alt="GIF" src="https://media1.tenor.com/images/84582591222f1f49041d8cf17ad02853/tenor.gif?itemid=16168697" width="auto" height="320" />
 
