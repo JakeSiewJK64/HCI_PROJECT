@@ -74,7 +74,4 @@ Reach Me: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shield
 
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JakeSiewJK64&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
--   [](https://github.com/ "GitHub")
 <h3> Berkhidmat Untuk Negara! / マレイジャの為！ 💪💪💪 </h3>
