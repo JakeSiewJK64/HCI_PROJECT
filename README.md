@@ -18,39 +18,30 @@ Reach Me: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shield
 </a><a href="https://medium.com/@JakeSiewJK64">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 **☘ Frontend:**
-
 ![](https://img.shields.io/badge/-React-3498db?logo=react&logoColor=white&style=Flat) ![](https://img.shields.io/badge/-Angular-CC0000?logo=angular&logoColor=white&style=Flat)
-![](https://img.shields.io/badge/-Flutter-74b9ff?logo=flutter&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Bootstrap-6c5ce7?logo=bootstrap&logoColor=white&style=Flat)
 
 **⚡ Database:**
-
 ![](https://img.shields.io/badge/-Postgres-2980b9?logo=postgresql&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-MongoDB-27ae60?logo=mongodb&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-MySQL-2980b9?logo=mysql&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-MSSQL-CC0000?logo=mysql&logoColor=white&style=Flat)
 
 **⛅ Cloud:**
-
-![](https://img.shields.io/badge/-Heroku-9b59b6?logo=heroku&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Netlify-27ae60?logo=Netlify&logoColor=white&style=Flat)
 
 **🍔 Backend:**
-
 ![](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=Flat) ![](https://img.shields.io/badge/-Spring-27ae60?logo=spring&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-.NET-9b59b6?logo=dotnet&logoColor=white&style=Flat)
 
 **🛠️ Debugging:**
-
 ![](https://img.shields.io/badge/-Postman-f39c12?logo=postman&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Swagger-2ecc71?logo=swagger&logoColor=white&style=Flat)
 
 **📁 Project Management:**
-
 ![](https://img.shields.io/badge/-Trello-2980b9?logo=trello&logoColor=white&style=Flat)
 
 **🚓 Other Tools and Package Managers:**
-
 ![](https://img.shields.io/badge/-npm-000?logo=npm&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Maven-e74c3c?logo=apachemaven&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Nuget-3498db?logo=nuget&logoColor=white&style=Flat)
@@ -59,7 +50,6 @@ Reach Me: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shield
 
 
 **🌭 React Related Tools:**
-
 ![](https://img.shields.io/badge/-React%20Router%20v6-e74c3c?logo=reactrouter&logoColor=white&style=Flat) 
 ![](https://img.shields.io/badge/-React%20Redux-3498db?logo=redux&logoColor=white&style=Flat)
 ![](https://img.shields.io/badge/-Formik-f1c40f?logo=forms&logoColor=white&style=Flat)
@@ -67,14 +57,9 @@ Reach Me: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shield
 ![](https://img.shields.io/badge/-Axios-e74c3c?logo=axios&logoColor=white&style=Flat)![](https://img.shields.io/badge/-Zustand-16a085?logo=zustand&logoColor=white&style=Flat)
 
 # 📈 Github Streaks
-
-
 <div style="display:flex;flex-direction:column;">
-
 <img src="https://github-readme-stats.vercel.app/api?username=JakeSiewJK64&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="JakeSiewJK64" width="45%" align="right"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
-
+<img src="https://myreadme.vercel.app/api/embed/JakeSiewJK64?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
-
 <h3> Berkhidmat Untuk Negara! / マレイジャの為！ 💪💪💪 </h3>
