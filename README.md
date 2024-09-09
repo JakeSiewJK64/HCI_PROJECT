@@ -58,7 +58,6 @@ Reach Me: <a href="mailto:joekanesiew@outlook.com">![Outlook](https://img.shield
 
 # 📈 Github Streaks
 <div style="display:flex;flex-direction:column;">
-<img src="https://myreadme.vercel.app/api/embed/JakeSiewJK64?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-stats.vercel.app/api?username=JakeSiewJK64&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="JakeSiewJK64" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeSiewJK64&theme=dark" width="48%" >
 </div>
